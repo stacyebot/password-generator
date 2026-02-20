@@ -151,7 +151,6 @@ Potential features for future versions:
 ## 👤 Author
 
 **Stacy Ebot**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 - LinkedIn: [staceyebot](https://linkedin.com/in/staceyebot-3a44342b4)
 
 ## 📄 License
